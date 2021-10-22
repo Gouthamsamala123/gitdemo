@@ -1,6 +1,10 @@
 Goutham is learning alot
 
+<<<<<<< HEAD
 
 idi second change
 idi third change
 
+=======
+THis is the last change
+>>>>>>> firstbranch
